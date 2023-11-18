@@ -1,0 +1,24 @@
+body{
+	font-family: 'Racing Sans One', sans-serif;
+	color: white;
+	text-shadow: 2px 2px 2px black; /* Adjust the shadow values as needed */
+	background-color: black;
+	background-image: url("img/f1background.avif"); 
+}
+header h1 {
+	font-size: 50px;
+	display: inline-block;
+	padding: 20px;
+	color: #fff; /* Text color */
+}
+header h2{
+	font-weight: bold;
+}
+/* track borders */
+div {
+	border-style: dashed;
+	border-width: 4px; /* Adjust the width as needed */
+	padding: 5px;
+	margin: 5px;
+	border-color: yellow;
+}
